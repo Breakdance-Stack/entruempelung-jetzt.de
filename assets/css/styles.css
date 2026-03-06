@@ -250,6 +250,10 @@ textarea{min-height:120px; resize:vertical}
  .burger{display:inline-block}
  .mobile-menu{display:block}
  .mobile-menu[hidden]{display:none}
+ .steps-grid{grid-template-columns: 1fr 1fr !important}
+}
+@media (max-width: 560px){
+ .steps-grid{grid-template-columns: 1fr !important}
 }
 
 
