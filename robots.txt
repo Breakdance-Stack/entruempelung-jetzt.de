@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://4rjn.github.io/entruempelung-jetzt.de/sitemap.xml
+Sitemap: https://entuempelung-rahimic.de/sitemap.xml
