@@ -1,0 +1,62 @@
+{
+  "business_name": "Entrümpelung Rahimic",
+  "full_name": "Entrümpelung Rahimic München & Umgebung",
+  "owner": "Pasan Rahimic",
+  "legal_form": "Einzelunternehmen (§ 19 UStG)",
+  "website": "https://entrümpelung-jetzt.de",
+  "region": ["München", "Landkreis Dachau", "Landkreis Fürstenfeldbruck", "Landkreis Augsburg"],
+  "service_area_focus": "Entrümpelung, Haushalts- & Wohnungsauflösung in München und Umgebung",
+  "primary_goal": "Generierung qualifizierter Angebotsanfragen",
+  "services": [
+    "Entrümpelung",
+    "Wohnungsauflösung",
+    "Haushaltsauflösung",
+    "Sperrmüllentsorgung",
+    "Elektroschrottentsorgung",
+    "Umzug & Transport"
+  ],
+  "target_customers": [
+    "Privathaushalte",
+    "Unternehmen",
+    "Arztpraxen",
+    "Hausverwaltungen",
+    "Bauunternehmen",
+    "Gewerbeobjekte"
+  ],
+  "lead_process": {
+    "required_questions": [
+      "Art der Entrümpelung",
+      "Flächengröße in Quadratmetern",
+      "Stockwerk & Aufzug",
+      "Entrümpelungsumfang",
+      "Standort / Stadtteil",
+      "Besondere Anforderungen",
+      "Starttermin"
+    ],
+    "preferred_contact": {
+      "type": "Telefon",
+      "phone": "08950006174",
+      "note": "Festnetznummer, direkter Kontakt empfohlen"
+    },
+    "secondary_contact": {
+      "contact_form": "https://entrümpelung-jetzt.de/kontakt.html",
+      "email": "info@entrümpelung-jetzt.de"
+    }
+  },
+  "positioning": {
+    "family_owned": true,
+    "regional": true,
+    "personal_contact": true,
+    "fast_response": true,
+    "flexible_scheduling": true,
+    "vehicle": "Kombi & Anhänger"
+  },
+  "call_to_action": "Jetzt unverbindliches Angebot anfordern – telefonisch oder per Formular.",
+  "contact": {
+    "phone": "08950006174",
+    "phone_type": "Festnetz",
+    "phone_e164": "+498950006174",
+    "email": "info@entrümpelung-jetzt.de",
+    "address": "Stemplingeranger 9, 81737 München"
+  }
+}
